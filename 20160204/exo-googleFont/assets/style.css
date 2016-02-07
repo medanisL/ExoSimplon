@@ -1,0 +1,21 @@
+body {
+	
+	background-color: beige;
+}
+
+menu a{
+	margin-left:.4em;
+	margin-right:.4em;
+	text-decoration: none;
+	color:#E5CFCF;
+}
+
+menu a:link, menu a:visited, menu a:active {
+	color: rgba(254,34,62,.6);
+
+}
+
+menu a:hover {
+	color: rgba(254,34,62,1);
+	text-decoration: underline;
+}

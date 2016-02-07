@@ -1,0 +1,107 @@
+ <!DOCTYPE html>
+ <html>  
+
+  <head>
+
+        <meta charset="utf-8" />
+	<title>tajin</title>
+	<link rel="stylesheet" href="style.css" />
+
+    </head>
+
+
+    <body>
+
+        <header>
+
+	    <h1>COUSCOUS-TAJIN</h1>
+
+            <h2>Recette de merveilleux tajin</h2>
+
+
+	      <nav>
+
+		    <ul>
+
+			<li class="mhorizontale"><a href="index.html">Accueil</a></li>
+
+
+		        <li class="mhorizontale"><a href="couscous.html">Couscous</a></li>
+
+
+		        <li class="mhorizontale"><a href="tajin.html">Tajin</a></li>
+
+
+		    </ul>
+
+		</nav>
+
+
+        </header>
+
+
+
+	 <section>
+
+            
+
+                <h3>Ingrédients</h3>
+		<img src="280973_2.jpg"/>
+
+                <p> 
+			<ul>
+
+			<li>4 cuisses de poulet</li>
+			<li>2 courgettes</li>
+			<li>3 pommes de terre</li>
+		        <li>2 carottes</li>
+			<li>2 tomates</li>
+			<li>1 oignons</li>
+			<li>épices à tajine</li>
+			
+		       </ul>
+		</p>
+
+           	
+
+
+                <p><span id="lettrine">F</span>aire revenir le poulet à feu moyen pour qu'il soit un peu doré.
+Pendant ce temps, peler et couper les légumes : couper les carottes en 2 , puis dans le sens de la longueur. Idem pour les courgettes. Couper les oignons en lamelles et les pommes de terres en 4.<br/>
+Mettre les légumes avec le poulet, rajouter les épices à tajine et le cumin. Mettez également un peu d'eau (3/4 verre d'eau).<br/>
+Laisser cuire environ 1 heure et voilà, c'est prêt !</p>
+
+		
+		<p> 
+Remarques :<br/>
+
+Je vous conseille de posséder un grand plat à tajine, sinon tous les ingrédients ne rentreront pas. Normalement on ne doit pas ouvrir le plat pendant la cuisson mais moi je préfère remuer de temps en temps.<br/>
+ </p>
+		
+		<iframe width="640" height="360" src="https://www.youtube.com/embed/pclYJyNPz-A?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+        </section>	
+
+
+
+
+                 
+
+        <footer>
+
+
+
+            <a href="#">Me contacter !</a>
+
+        </footer>
+
+        
+
+    </body>
+
+</html>
+
+

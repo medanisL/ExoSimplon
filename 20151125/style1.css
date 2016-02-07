@@ -1,0 +1,115 @@
+/* contenu de la page */
+body 
+{
+background-image:url("contemporary_china.png");
+font-family:sans-serif;
+width:900px;
+margin:auto;
+font-size:x-large;
+}
+
+/* contenu du menu de navigation */
+#navaccueil
+{
+width:50%;
+margin:auto;
+
+
+}
+
+
+nav ul
+{
+list-style-type: none;
+text-align:center;
+
+}
+
+
+
+.listac
+{
+
+border:3px groove white;
+padding:30%;
+font-size:30px;
+border-radius:50px;
+box-shadow:6px 6px 5px silver;
+background-image:url("contemporary_china_2.png");
+
+}
+
+#lettrine
+{
+font-family:serif;
+font-size:100px;
+color:blue;
+
+}
+
+img
+{
+float:right;
+border:5px groove grey;
+
+}
+
+p
+{
+line-height:1.6;
+
+}
+
+h1
+{
+text-align:center;
+font-family:Verdana;
+color:grey;
+font-size:100px;
+}
+
+h2
+{
+text-align:center;
+font-family:Verdana;
+color:grey;
+}
+
+.mhorizontale
+{
+display:inline-block;
+border:5px groove white;
+border-radius:10px;
+background-image:url("contemporary_china_2.png");
+}
+
+footer
+{
+border:5px ridge grey;
+border-radius:15px;
+margin:5%;
+margin-left:0;
+width:100%;
+padding:2%;
+background-image:url("contemporary_china_2.png");
+}
+
+a:link
+{
+color: grey; text-decoration: none;
+}
+a:visited
+{
+color: grey; text-decoration: none;
+}
+a:hover
+{
+color: grey;
+text-decoration: none;
+background: #CCCCFF;
+}
+a:active
+{
+color: #2f38de;
+text-decoration: none;
+}

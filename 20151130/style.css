@@ -1,0 +1,40 @@
+body
+{
+	width:900px;
+	margin:auto;
+	background-color: #E6E2AF;
+	font-family: sans-serif;
+
+}
+
+h1,h1+p{
+
+	text-align: center;
+	font-size: 30px;
+
+}
+
+
+h3{
+
+	width: 100%;
+	background-color: white;
+	box-shadow: 6px 6px 2px black;
+	border:2px solid black;
+
+}
+
+a {
+  
+  color:black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: white;
+  background: #800;
+}

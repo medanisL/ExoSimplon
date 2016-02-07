@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>  
+
+
+   <head>
+
+        <meta charset="utf-8" />
+	<title>AAprojet</title>
+	<link rel="stylesheet" href="style.css" />
+	<script type="text/javascript" src="app.js"></script>
+	
+
+    </head>
+
+
+    <body>
+
+        <header>
+
+            <h1>Bonjour c'est anis et alice</h1> 
+
+            <h2>bienvenue sur notre site !!</h2>
+
+        </header>
+
+        
+	<section>
+
+            <ul >
+
+                <li>html/css</li>
+			
+
+                <li>javascript</li>
+	
+		<li>php</li>
+			
+
+            </ul>
+
+        </section>
+       
+
+
+
+        <footer>
+
+            <p><a href="#">Me contacter !</a></p>
+
+        </footer>
+
+        
+
+    </body>
+
+</html>
+
+
